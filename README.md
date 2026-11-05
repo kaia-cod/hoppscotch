@@ -298,3 +298,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 [^EE]: Enterprise edition feature. [Learn more](https://docs.hoppscotch.io/documentation/self-host/getting-started).
 <!-- test kaia-cod push via Basic header -->
+
+> **DX Note:** Prerequisites — Node.js 20+ and pnpm 9+ are required before `pnpm install`. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
